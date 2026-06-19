@@ -130,3 +130,21 @@ This project can be further enhanced in the following ways:
 - Implement beam search for improved text generation
 - Deploy as a web application using Flask/FastAPI + frontend UI
 
+---
+
+## 🎯 Project Purpose
+
+This project was created as a **learning exercise in Natural Language Processing (NLP) and deep learning**. It demonstrates:
+
+- How language models are trained on sequential text data  
+- How LSTM networks process and learn from textual sequences  
+- Practical implementation of an end-to-end PyTorch training pipeline  
+- The complete workflow of a basic NLP language modeling task  
+
+---
+
+## 🙏 Acknowledgements
+
+- Kaggle dataset by Ronik Dedhia  
+- PyTorch documentation and official resources  
+- Open-source NLP learning materials and tutorials  
